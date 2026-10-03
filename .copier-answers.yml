@@ -1,0 +1,8 @@
+# Changes here will be overwritten by Copier; do not edit manually
+_commit: 88cd6ed
+_src_path: gh:pandazxx/project-templates
+create_github: true
+description: A poor man's 3d scanner with AI power
+github_visibility: public
+language: none
+project_name: poor-man-3d-scan
